@@ -1,3 +1,6 @@
+
+<img width="1418" height="389" alt="Screenshot 2025-11-22 225727" src="https://github.com/user-attachments/assets/f4e04d19-66cd-4378-a156-7e77e4a91044" />
+
 # EX:3 List Operations in Python: Sum of List Items
 
 ##  Aim
